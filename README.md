@@ -1,2 +1,2 @@
 # LGC
-Implement of Legendre Graph Convolution, submitted to LoG 2026
+Implementation of Legendre Graph Convolution, submitted to LoG 2026
