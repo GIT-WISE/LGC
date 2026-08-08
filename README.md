@@ -3,8 +3,7 @@
 **Long-range molecular graph modeling via a Cayley-stabilized Legendre spectral filter**
 
 This repository contains the official implementation of the paper
-*"LGC: Long-range Modeling on Molecular Graphs with Legendre-basis"*
-(submitted to the LoG 2026 Proceedings Track). It provides two companion
+*"LGC: Long-range Modeling on Molecular Graphs with Legendre-basis"*. It provides two companion
 codebases: one for MoleculeNet based graph classification, one for the
 Long Range Graph Benchmark (LRGB) Peptides tasks.
 
