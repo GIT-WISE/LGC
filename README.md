@@ -39,7 +39,7 @@ polynomial order.
 ## Repository contents
 
 | Folder | Task | Datasets | 
-|---|---|---|---|
+|---|---|---|
 | [`lgc-molnet/`](./lgc-molnet) | Graph classification | MoleculeNet: BACE, BBBP, HIV | 
 | [`cayley-legendre-gnn/`](./cayley-legendre-gnn) | Graph classification + regression | LRGB: Peptides-func, Peptides-struct | 
 
