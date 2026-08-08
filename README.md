@@ -38,10 +38,10 @@ polynomial order.
 
 ## Repository contents
 
-| Folder | Task | Datasets | Entry point |
+| Folder | Task | Datasets | 
 |---|---|---|---|
-| [`lgc-molnet/`](./lgc-molnet) | Graph classification | MoleculeNet: BACE, BBBP, HIV | `main.py` |
-| [`cayley-legendre-gnn/`](./cayley-legendre-gnn) | Graph classification + regression | LRGB: Peptides-func, Peptides-struct | `scripts/train_peptides.py` |
+| [`lgc-molnet/`](./lgc-molnet) | Graph classification | MoleculeNet: BACE, BBBP, HIV | 
+| [`cayley-legendre-gnn/`](./cayley-legendre-gnn) | Graph classification + regression | LRGB: Peptides-func, Peptides-struct | 
 
 Both packages implement the same `SkewLinear` / `GeneratorA` /
 `CayleyLegendreLayer` building blocks and the same Krylov/Neumann/Richardson
