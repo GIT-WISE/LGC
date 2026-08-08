@@ -18,8 +18,6 @@ Long Range Graph Benchmark (LRGB) Peptides tasks.
 
 ## Summary
 
-## The problem
-
 Message-passing GNNs propagate information one hop per layer, so modeling an
 interaction between two nodes at graph distance *d* requires depth ≥ *d*.
 Pushing depth to reach distant nodes causes **over-squashing**
